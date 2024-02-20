@@ -2,6 +2,8 @@
 const nextConfig = {};
 
 module.exports = {
+  basePath: '/nextjssite',
+  assetPrefix: '/nextjssite/',
   images: {
     remotePatterns: [
       {
