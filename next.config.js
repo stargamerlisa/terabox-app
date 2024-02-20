@@ -2,8 +2,8 @@
 const nextConfig = {};
 
 module.exports = {
-  basePath: '/nextjssite',
-  assetPrefix: '/nextjssite/',
+  basePath: '/terabox',
+  assetPrefix: '/terabox/',
   images: {
     remotePatterns: [
       {
